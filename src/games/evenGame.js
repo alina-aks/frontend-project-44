@@ -1,4 +1,3 @@
-
 import runGame from "../index.js";
 
 const isEven = (int) =>{
