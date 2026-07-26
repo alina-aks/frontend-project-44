@@ -1,6 +1,6 @@
 import runGame from "../index.js";
 
-const gameDescription = 'Answer "yes" if the number is even, otherwise answer "no".';
+const gameDescription = 'Answer "yes" if given number is prime. Otherwise answer "no"..';
 
 const isPrime = (n) => {
     if (n < 2){
