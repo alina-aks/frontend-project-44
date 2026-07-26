@@ -8,7 +8,7 @@ const isEven = (int) =>{
     }
 }
 
-const gameDescription = "Answer 'yes' if the number is even, otherwise answer 'no'.";
+const gameDescription = 'Answer "yes" if the number is even, otherwise answer "no".';
 
 const generateRound = () => {
     const randomNumb = Math.floor(Math.random()*10);
