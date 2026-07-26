@@ -3,14 +3,6 @@ import readlineSync from "readline-sync";
 
 const rounds = 3;
 
-/*состав игры
-- поздороваться
-- описание игры
-- вопрос
-- ответ
-- результат
-
-*/
 
 const runGame = (gameDescription, generateRound) =>{
     const userName = greeting();
